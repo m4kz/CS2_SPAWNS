@@ -97,15 +97,7 @@ Thanks to original creator: https://www.reddit.com/r/GlobalOffensive/comments/17
 
     Now you'll change positions while switching.
 
-or Download here - v1.4 Chinese - translated by widez
-Zip file contains:
-
-    7 files for map spawns.
-
-    1 file "KeybindsSpawns" for you to change keybinds as you wish.
-
-    1 file "Spawn" as Spawn Manager.
-
+***********************************************************************************************
 Instructions:
 
     Extract the zip file.

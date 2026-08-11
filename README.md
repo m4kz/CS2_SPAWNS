@@ -1,12 +1,11 @@
 Thanks to original creator: https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/
 
  Current version: 1.6
+
 [New Update v1.6]
 
-Included Dust 2
-Mirage,Anubis,Inferno,Ancient:
-  Positions updated to most up to date.
-
+    Included Dust 2
+    Mirage,Anubis,Inferno,Ancient:Positions updated to most up to date.
 
 [New Update v1.5]
 

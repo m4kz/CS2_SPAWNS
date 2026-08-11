@@ -100,17 +100,19 @@ Thanks to original creator: https://www.reddit.com/r/GlobalOffensive/comments/17
 ***********************************************************************************************
 Instructions:
 
-    Extract the zip file.
+    1. Download CS2_SPAWNS.zip
+    
+    2. Extract the zip file.
 
-    Browse local files for CS2.
+    3. Browse local files for CS2.
 
-    Then go to game > csgo > cfg .
+    4. Then go to game > csgo > cfg .
 
-    Copy all extracted files to cfg folder.
+    5. Copy all extracted files to cfg folder.
 
-    Open KeybindsSpawns.cfg in a note editor if you would like to change keybinds to your liking. (Change both bind & unbind in the file).
+    6. Open KeybindsSpawns.cfg in a note editor if you would like to change keybinds to your liking. (Change both bind & unbind in the file).
 
-cfg folder
+
 Default Keybinds:
 
     Home: Rotate between maps.
@@ -125,6 +127,6 @@ Default Keybinds:
 
 Simply load it by typing "exec spawn" in console.
 
-https://preview.redd.it/0spultu7tqvb1.png?width=330&format=png&auto=webp&s=87e748d9774d2882c764430c15f2c0e9bfcd97b2
+<img width="330" height="76" alt="image" src="https://github.com/user-attachments/assets/562f0ccf-4d1a-4c2a-9e14-4932f113ba47" />
 
 & btw Cheats should be ON for it to work! 

@@ -1,4 +1,4 @@
-Thanks to original creator: https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/
+Thanks to original creator: [https://www.reddit.com/r/GlobalOffensive/comments/17bvxvy/cs2_map_spawns_all_premier_maps_for_practice/](https://www.reddit.com/r/GlobalOffensive/comments/1b383vm/cs2_map_spawns_all_premier_maps_for_practice_new/)
 
  Current version: 1.6
 
